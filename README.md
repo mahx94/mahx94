@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mihaly-André Hadnagy
-- 👀 I’m interested in ...
+<!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... --->
 - 📫 You can reach me at www.linkedin.com/in/mihaly-andré-hadnagy-777ab4241
 
 <!---
